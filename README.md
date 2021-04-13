@@ -44,4 +44,12 @@ public interface IOhmValueCalculator
   is taken into consideration, a range of resistances are returned. At the
   least, two ints.
 
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+## Set Up
+- Clone or download
+- run in cmd in project root -npm i-
+
+## Compile
+- run in cmd in project root -npm run build-
+
+## Run App
+- run in cmd in project root -npm run start-
