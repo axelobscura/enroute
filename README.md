@@ -35,7 +35,7 @@ public interface IOhmValueCalculator
 ## Tasks
 - Write a class that implements the following interface. Feel free to include any supporting types as necessary.
 - Using your favorite unit test framework, write the unit tests you feel are necessary to adequately test the code you wrote as your answer to question one.
-- Create a .NET MVC or Reactjs web interface that will allow someone to use the calculator you created in step one.
+- Create a Reactjs web interface that will allow someone to use the calculator you created in step one.
 - Submit your code by a public or private repository like github, gitlab or bitbucket.
 
 ## Issues
